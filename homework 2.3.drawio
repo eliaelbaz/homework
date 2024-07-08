@@ -1,0 +1,40 @@
+<mxfile host="drawio-plugin" modified="2024-07-05T14:36:05.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="hd9Ro6ufNTGdu4ciRUzr" version="22.1.22" type="embed">
+  <diagram name="Page-1" id="4Djzq4b5THiSx8TP4thO">
+    <mxGraphModel dx="664" dy="320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eqnU0XmFGaIsLUR6_6Uv-1" value="end" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eqnU0XmFGaIsLUR6_6Uv-2" target="eqnU0XmFGaIsLUR6_6Uv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqnU0XmFGaIsLUR6_6Uv-2" value="x = (int 777)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eqnU0XmFGaIsLUR6_6Uv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eqnU0XmFGaIsLUR6_6Uv-3" target="eqnU0XmFGaIsLUR6_6Uv-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eqnU0XmFGaIsLUR6_6Uv-3" target="eqnU0XmFGaIsLUR6_6Uv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eqnU0XmFGaIsLUR6_6Uv-3" value="start" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eqnU0XmFGaIsLUR6_6Uv-5" value="y = (int 888)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eqnU0XmFGaIsLUR6_6Uv-6" value="z = (int 999)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eqnU0XmFGaIsLUR6_6Uv-7" value="&lt;span class=&quot;hljs-string&quot;&gt;result&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;z&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;hljs-string&quot;&gt;x&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eqnU0XmFGaIsLUR6_6Uv-8" value="&#xa;&lt;span class=&quot;hljs-built_in&quot;&gt;print&lt;/span&gt;(result)&#xa;&#xa;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
